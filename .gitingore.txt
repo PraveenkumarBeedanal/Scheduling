@@ -1,0 +1,6 @@
+**/.idea/Gurobi_optimization.iml
+**/.idea/modules
+**/.idea/workspace
+**/.ipynb_checkpoints/data-checkpoint
+**/.ipynb_checkpoints/model-checkpoint
+**/.ipynb_checkpoints/model-copy1-checkpoint
